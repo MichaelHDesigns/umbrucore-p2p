@@ -49,10 +49,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/umbru/umbrucore-p2p.git"
+    "url": "https://github.com/MichaelHDesigns/umbrucore-p2p.git"
   },
   "dependencies": {
-    "umbrucore-lib": "git://github.com/umbru/umbrucore-lib.git#master",
+    "umbrucore-lib": "git://github.com/MichaelHDesigns/umbrucore-lib.git#master",
     "bloom-filter": "^0.2.0",
     "mocha": "^5.2.0",
     "node-buffers": "^0.1.1",
