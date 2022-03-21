@@ -52,7 +52,7 @@
     "url": "https://github.com/MichaelHDesigns/umbrucore-p2p.git"
   },
   "dependencies": {
-    "umbrucore-lib": "git://github.com/MichaelHDesigns/umbrucore-lib.git#master",
+    "umbrucore-lib": "https://github.com/MichaelHDesigns/umbrucore-lib.git#master",
     "bloom-filter": "^0.2.0",
     "mocha": "^5.2.0",
     "node-buffers": "^0.1.1",
